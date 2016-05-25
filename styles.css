@@ -1,0 +1,221 @@
+/* google font*/
+
+@import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
+
+/* styles.css */
+html,
+body {
+    height: 100%;
+    font-family: 'Quattrocento Sans', sans-serif;
+    background-color: black;
+}
+
+
+/* images */
+
+.desafioicon {
+    max-width: 50%;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+/* icon image*/
+.borderadius {
+    border: 2px solid;
+    border-radius: 25px;
+    border-color: white;
+    max-width:50px;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+/*headers*/
+h1,h2,h3,h4,h5,h6,p{
+    color:white;
+}
+
+/*container*/
+.container{
+	padding: 3rem;
+
+}
+
+/* cover */
+
+#cover {
+    background: #222 url('http://i0.wp.com/www.photosinbox.com/download/red-abstract-background.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+#cover-caption {
+    width: 100%;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.section-content {
+    padding: 5rem 0;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.cover-img{
+	float:left;
+}
+
+
+
+/*Nav Bar*/
+.navbar{
+    display: fixed!important ;
+    background-color: black;
+}
+
+
+.nav-down{
+	color:white;
+    align-items: center;
+    text-align: center;
+    padding: 3rem;
+    color:#ffffff;
+
+}
+
+.nav-up{
+    align-items: center;
+    text-align: center;
+    padding: 3rem;
+    color:#ffffff;
+}
+
+/* carousel */
+
+#carousel {
+    background-color: black;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+
+#columnas{
+    width: 100%;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Aburrido */
+
+#aburrido{
+    background-color: #20232D;
+    color: white;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+/*inscribite section text*/
+
+.inscribite-text{
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 3rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    float:left;
+}
+
+
+
+
+/* contact section */
+
+#contact{
+    background: url('http://i0.wp.com/www.photosinbox.com/download/red-abstract-background.jpg')center center no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Quattrocento Sans', sans-serif;
+    padding-top: 1em;
+}
+
+
+/*contact section text*/
+
+.contact-text {
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 3.5rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    float:left;
+}
+
+/* contact form */
+.input-group{
+	    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+/*social*/
+.social{
+	padding: 3em;
+	font-family: 'Quattrocento Sans', sans-serif;
+
+}
+
+/*empresas*/
+#empresas{
+	background-color: #black;
+    color: white;
+    font-family: 'Quattrocento Sans', sans-serif;
+
+}
+
+/*logos empresas*/
+.logos{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 100%;
+}
+
+.img-responsive{
+	width:150px;
+	height:150px;
+	display: block;
+	float: left;
+}
+
+/*queremos section*/
+#queremos{
+	background-color: #20232D;
+    color: white;
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+/*Hacker*/
+#hacker{
+	background-color: black;
+    color: white;
+    font-family: 'Quattrocento Sans', sans-serif;
+
+}
+
+/*inscribite section text*/
+
+.hacker-text{
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 3rem;
+    font-family: 'Quattrocento Sans', sans-serif;
+    float:left;
+}
+
+.img-fluid{
+	float:left;
+}
+
+
